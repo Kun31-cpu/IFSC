@@ -1,0 +1,6 @@
+{
+  "name": "IFSC Finder",
+  "description": "A modern IFSC finder supporting real-time branch resolution, bank and branch lookup, dark mode, and intelligent location insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
